@@ -1,0 +1,21 @@
+{
+  "name": "hovo-petrosyan-crypto",
+  "version": "1.0.0",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "crypto-js": "^4.2.0",
+    "express": "^4.19.2",
+    "joi": "^17.13.3",
+    "js": "^0.1.0",
+    "md5": "^2.3.0",
+    "uuid": "^10.0.0"
+  }
+}
